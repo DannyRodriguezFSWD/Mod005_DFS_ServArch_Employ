@@ -1,0 +1,19 @@
+{
+  "name": "employ",
+  "version": "1.0.0",
+  "description": "creacion de apis",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": ""
+  },
+  "author": "Danny Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "supertest": "^6.3.1"
+  }
+}

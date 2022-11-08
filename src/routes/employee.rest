@@ -1,0 +1,17 @@
+POST http://localhost:8000/api/employees
+GET http://localhost:8000/api/employees
+
+GET http://localhost:8000/api/employees?page=1
+
+
+GET http://localhost:8000/api/employees?oldest
+
+GET http://localhost:8000/api/employees?user=true
+
+
+//POST  http://localhost:8000/api/employees
+
+GET http://localhost:8000/api/employees?badges=black
+
+GET http://localhost:8000/api/employees/Martin
+
